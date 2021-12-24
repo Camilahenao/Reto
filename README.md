@@ -1,8 +1,6 @@
 # Juego Sofka
 Inicialmente es necesario clonar repositorio https://github.com/Camilahenao/Juego/tree/master para poder ejecutarlo, adicional es necesario tener instalado:
-* Spring boot 2.6.2
 * Java 8
-* SQLite 3.25.2
 * Angular CLI 13.0.1
 
 No requiere instalaciones adicionales ni configuración de bases de datos ya que la persistencia se maneja mediante un archivo de base de datos SQLite que se genera automáticamente la primera vez que se compila el proyecto.
@@ -20,13 +18,14 @@ Se identifica lo siguientes:
 * Funcionalidades
 
 Tecnologías utilizadas para el desarrollon del proyecto
-IDE Java (Eclipse, Netbeans, Intellij)
-node js 
-Angular --> npm install --> ng serve --> ejecutar el API y clonarlo 
-Se configura el localhost4200
-Visual studio code (editor de código)
-DB Browser for SQLite
-POO
+* IDE Java (Eclipse, Netbeans, Intellij)
+* node js 
+* Angular. Para confirarlo: --> npm install --> ng serve --> ejecutar el API y clonarlo 
+* Se configura el localhost4200
+* Visual studio code (editor de código)
+* DB Browser for SQLite
+* Spring boot 2.6.2
+* POO
 
 Configuración del juego:
 Aplicación web que permite al usuario jugar al clásico preguntas y respuestas, en este caso se tienen preguntas con 4 opciones de respuesta, pero solo una es la correcta.
